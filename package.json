@@ -1,0 +1,22 @@
+{
+    "name": "nodejs-boilerplate",
+    "description": "Very simple starter kit for a nodejs project",
+    "version": "0.0.1-SNAPSHOT",
+    "private": true,
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/sebprunier/nodejs-boilerplate.git"
+    },
+    "license": "MIT",
+    "dependencies": {
+    },
+    "devDependencies": {
+        "mocha": "1.13.x",
+        "watch": "0.8.x",
+        "nodemon": "0.7.10" 
+    },
+    "engines": {
+        "node": "0.10.x",
+        "npm": "1.3.x"
+    }
+}
