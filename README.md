@@ -10,7 +10,7 @@ So it is intentionally minimalist !
 Unit tests
 ----------
 
-Unit tests are located in the test directory. They are based on [Mocha](http://visionmedia.github.io/mocha/) and [Assert](http://nodejs.org/api/assert.html).
+Unit tests are located in the test directory. They are based on [Mocha](http://mochajs.org/) and [Assert](http://nodejs.org/api/assert.html).
 
 Run the `test` target of the Makefile to execute the unit tests : 
 
